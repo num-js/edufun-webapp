@@ -1,0 +1,27 @@
+.appDiv{
+    background-image: linear-gradient(to bottom, rgba(117, 19, 93, 0.73), rgba(245, 246, 252, 0.52)),
+    url('../desktop-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.navbar-brand{
+    font-size: 25px;
+}
+
+.navLinks .links{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.navLinks .links:hover{
+    color: rgba(255, 255, 255, 0.712);
+}
+
+.signupBtn{
+    padding: 0px 10px 3px 10px;
+    border: 2px solid;
+    border-radius: 15px;
+}

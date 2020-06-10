@@ -1,0 +1,23 @@
+.dashHomeDiv{
+    background-color: rgb(6, 132, 141) !important;
+}
+
+.fourDiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.fourDiv .jumbotron{
+    padding: 30px;
+}
+
+.topicCoveredDiv{
+    padding-left: 20px;
+    padding-top: 15px;
+    border: 0.5px solid;
+    border-radius: 5px;
+    height: 200px;
+}

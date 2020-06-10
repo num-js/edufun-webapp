@@ -1,0 +1,14 @@
+.sidenavDiv{
+    height: 100vh;
+}
+
+.nav-link{
+    text-decoration: none !important;
+    color: white !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nav-item:hover{
+    background-color: rgba(255, 255, 255, 0.267);
+}

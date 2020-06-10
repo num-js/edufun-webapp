@@ -1,0 +1,25 @@
+.formDiv{
+    padding-top: 100px;
+
+}
+
+.jumbotronDiv{
+    background-color: rgba(60, 60, 241, 0.438);
+    color: white;
+}
+
+form label{
+    float: left !important;
+}
+
+.signupFormBtn{
+    padding: 0px 10px 3px 10px;
+    border: 2px solid white;
+    border-radius: 15px;
+    color: white;
+}
+.signupFormBtn:hover{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(84, 84, 231, 0.89) !important;
+}
