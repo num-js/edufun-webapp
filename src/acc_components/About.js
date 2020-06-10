@@ -1,6 +1,5 @@
 import React from 'react';
 import SideBar from './SideBar';
-import DashboardFooter from './DashboardFooter';
 import './About.css';
 export default function DashboardHome() {
     return (
