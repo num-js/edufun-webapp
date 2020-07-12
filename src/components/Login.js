@@ -5,9 +5,9 @@ import {Link} from 'react-router-dom';
 export default function Login() {
     return (
         <>
-            <div align="center" class="container loginDiv">
+            <div align="center" className="container loginDiv">
                 <div className="row">
-                    <div class="col-lg-9">
+                    <div className="col-lg-9">
                         
                     </div>
                     <div className="col-lg-3">
@@ -21,7 +21,7 @@ export default function Login() {
                                    <input type="text" />
                                     <br/>
                                     <br/>
-                                   <Link to="/home" class="loginFormBtn">Log In</Link>
+                                   <Link to="/home" className="loginFormBtn">Log In</Link>
                                </form>
                             </div>
                         </div>

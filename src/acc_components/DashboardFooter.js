@@ -32,8 +32,8 @@ export default function DashboardFooter(){
                 <br />
                 <br />
                 <div align="center">
-                    <div>EDUNOMICS</div>
-                    <small>contact@edunomics.in</small>
+                    <div>EduFun</div>
+                    <small>contact@edufun.in</small>
                 </div>
             </div>
         </>

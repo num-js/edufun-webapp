@@ -9,8 +9,8 @@ export default function Desktop() {
                 <div className="centerDiv">
                     <main>
                         <section>
-                            <h1 className="">WHERE DO YOU WANT TO GO TODAY</h1>
-                            <p>Share your ultimate travel bucket list <br/> with us </p>
+                            <h1 className="">LEARN PROGRAMMING AND CODING WITH FUN</h1>
+                            <p> Develop your Skills Faster with EduFun... </p>
                         </section>
                     </main>
                 </div>

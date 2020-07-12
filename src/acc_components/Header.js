@@ -6,10 +6,17 @@ export default function Footer() {
     return (
         <>
             <header>
-                <nav class="navbar navbar-light bg-light justify-content-between">
-                    <div class="navbar-brand text-bold">Welcome to Edunomics</div>
+                <nav className="navbar navbar-light bg-light justify-content-between">
+                    <div className="navbar-brand text-bold">Welcome to EduFun</div>
                     <div className="navLinksN">
-                        <Link to="/logout" className="links mr-5 signupBtn">My Account</Link>
+                        <div className="dropdown">
+                            <button type="button" className="links mr-5 signupBtn" data-toggle="dropdown">My Account</button>
+                            <div className="dropdown-menu">
+                                <Link to="/logout" className="dropdown-item" href="#"><span className="fa fa-user"> My Profile </span></Link>
+                                <Link to="/logout" className="dropdown-item" href="#"><span className="fa fa-sign-out"> Logout </span></Link>
+                            </div>
+                        </div>
+
                     </div>
                 </nav>
             </header>

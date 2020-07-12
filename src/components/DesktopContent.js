@@ -5,7 +5,7 @@ export default function DesktopContent() {
         <>
             <br/>
             <div className="container">
-                <h4 className="text-bold"><b>Whatever your style, travel your way</b></h4>
+                <h4 className="text-bold"><b>Learn Programming and Coding with Fun</b></h4>
                 <p>
                     Therse are dummy texts
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry. 

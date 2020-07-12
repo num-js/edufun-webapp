@@ -7,21 +7,21 @@ export default function DashboardHome() {
         <>
             
                 <div className="sidebarLinks">
-                    <ul class="nav flex-column">
-                        <li class="nav-item">
-                            <Link to="/home" class="nav-link text-bold">Home</Link>
+                    <ul className="nav flex-column">
+                        <li className="nav-item">
+                            <Link to="/home" className="nav-link text-bold">Home</Link>
                         </li>
-                        <li class="nav-item">
-                            <Link to="/sessions" class="nav-link">Sessions</Link>
+                        <li className="nav-item">
+                            <Link to="/sessions" className="nav-link">Sessions</Link>
                         </li>
-                        <li class="nav-item">
-                            <Link to="/downloads" class="nav-link">Downloads</Link>
+                        <li className="nav-item">
+                            <Link to="/downloads" className="nav-link">Downloads</Link>
                         </li>
-                        <li class="nav-item">
-                            <Link to="/settings" class="nav-link">Settings</Link>
+                        <li className="nav-item">
+                            <Link to="/settings" className="nav-link">Settings</Link>
                         </li>
-                        <li class="nav-item">
-                            <Link to="/about" class="nav-link">About</Link>
+                        <li className="nav-item">
+                            <Link to="/about" className="nav-link">About</Link>
                         </li>
                     </ul>
                 </div>

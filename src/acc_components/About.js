@@ -15,15 +15,16 @@ export default function DashboardHome() {
                         <div className="jumbotron dashAboutDiv rounded-0 m-0">
                             <h3>About Us </h3>
                             <div className="jumbotron shadow text-dark">
-                                <p>
-                                We are a bootstrap startup with a vision to impact education and economics solving complex problems with simple solutions. Edunomics combines tech expertise and business intelligence to catalyze change and deliver results. We are employing top talent to provide a uniquely matching solution for your unique problem.
+                                <p align="center">
+                                    EduFun is a E-Learning Platform to Learn Programmings and Codings by videos and blog contents.<br/>
+                                    EduFun is a simple Front-End project, It is Created to Learn RectJS.
                                 </p>
                             </div>
                         </div>
                         <div className="container-fluid col-12 m-0  jumbotron rounded-0 bg-light">
                             <div align="center">
-                                <div>EDUNOMICS</div>
-                                <small>contact@edunomics.in</small>
+                                <div>EduFun</div>
+                                <small>contact@edufun.com</small>
                             </div>
                         </div>
                     </div>

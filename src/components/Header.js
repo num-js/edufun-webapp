@@ -6,8 +6,8 @@ export default function Footer() {
     return (
         <>
             <header>
-                <nav class="navbar navbar-transparent justify-content-between">
-                    <div class="navbar-brand text-light text-bold">Welcome to Edunomics</div>
+                <nav className="navbar navbar-transparent justify-content-between">
+                    <div className="navbar-brand text-light text-bold">Welcome to EduFun</div>
                     <div className="navLinks">
                         <Link to="/login" className="links">Log in</Link>
                         <Link to="/signup" className="links m-4 signupBtn">Sign up</Link>
