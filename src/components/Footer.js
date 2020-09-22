@@ -14,6 +14,7 @@ export default function Footer(){
                     </div>
                     <br/>
                     <div>
+                        
                         JOIN US | COOKIE POLICY | TERMS OF USE | PRIVACY POLICY
                     </div>
                     <br />
