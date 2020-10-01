@@ -18,6 +18,10 @@ export default function Footer(){
                         JOIN US | COOKIE POLICY | TERMS OF USE | PRIVACY POLICY
                     </div>
                     <br />
+                    <div>
+                         Created with Love ❤ 
+                    </div>
+                     <br />
                     <small className="text-muted">
                         This is a simple Front-End personal project in React to Learn ReactJS by <a href="https://mdnmnahmed.github.io/portfolio/" target="_BLANK" rel="noopener"> N_Ah </a>
                     </small>
