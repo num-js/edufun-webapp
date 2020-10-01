@@ -19,7 +19,7 @@ export default function Footer(){
                     </div>
                     <br />
                     <div>
-                         Created with Love ❤ 
+                         Created in React with Love ❤ 
                     </div>
                      <br />
                     <small className="text-muted">
